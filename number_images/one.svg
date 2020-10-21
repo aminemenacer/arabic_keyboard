@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   preserveAspectRatio="xMidYMid meet"
+   viewBox="0 0 304.000000 700.000000"
+   height="700.000000pt"
+   width="304.000000pt"
+   version="1.0">
+  <defs
+     id="defs12" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     id="g6"
+     stroke="none"
+     fill="#000000"
+     transform="translate(0.000000,700.000000) scale(0.100000,-0.100000)">
+    <path
+       id="path4"
+       d="M977 6863 c-11 -18 -677 -1661 -677 -1671 0 -5 52 -79 116 -163 309 -409 544 -751 681 -993 340 -597 705 -1691 787 -2356 36 -292 56 -651 56 -1012 l0 -258 173 0 174 0 31 208 c81 537 140 1036 167 1412 28 403 16 963 -29 1346 -107 904 -388 1825 -759 2489 -93 166 -326 501 -586 840 -138 181 -128 169 -134 158z" />
+  </g>
+</svg>
